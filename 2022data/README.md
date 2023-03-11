@@ -23,7 +23,7 @@ From [Baseball Savant](https://baseballsavant.mlb.com/)
 
 ## 2022 Batting and Pitching statcast data
 
-From [Baseball Savant](https://baseballsavant.mlb.com/)
+From [Baseball Savant Statcast Search](https://baseballsavant.mlb.com/statcast_search) and it's [Statcast Search CSV Documentation](https://baseballsavant.mlb.com/csv-docs)
 
 - [2022 Batting](https://baseballsavant.mlb.com/leaderboard/custom?year=2022&type=batter&filter=&sort=4&sortDir=desc&min=q&selections=xba,xslg,xwoba,xobp,xiso,exit_velocity_avg,launch_angle_avg,barrel_batted_rate,&chart=false&x=xba&y=xba&r=no&chartType=beeswarm)
 
